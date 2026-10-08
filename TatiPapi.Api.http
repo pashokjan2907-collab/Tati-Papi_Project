@@ -1,0 +1,6 @@
+@TatiPapi.Api_HostAddress = http://localhost:5200
+
+GET {{TatiPapi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
